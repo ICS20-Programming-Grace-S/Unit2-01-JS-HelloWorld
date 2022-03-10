@@ -7,5 +7,5 @@
 function myButtonClicked () {
   // this function displays "Hello, World!"
   
-  document.getElementById('hello-world').innerHTML = 'I coded this in Javascript!'
+  document.getElementById('hello-world').innerHTML = 'Woah! This is a new feature I just learned. Instead of those annoying pop up windows, behold...'
 }
